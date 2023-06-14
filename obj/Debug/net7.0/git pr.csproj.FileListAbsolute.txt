@@ -1,0 +1,15 @@
+C:\Users\Timur\Desktop\git pr\bin\Debug\net7.0\git pr.exe
+C:\Users\Timur\Desktop\git pr\bin\Debug\net7.0\git pr.deps.json
+C:\Users\Timur\Desktop\git pr\bin\Debug\net7.0\git pr.runtimeconfig.json
+C:\Users\Timur\Desktop\git pr\bin\Debug\net7.0\git pr.dll
+C:\Users\Timur\Desktop\git pr\bin\Debug\net7.0\git pr.pdb
+C:\Users\Timur\Desktop\git pr\obj\Debug\net7.0\git pr.csproj.AssemblyReference.cache
+C:\Users\Timur\Desktop\git pr\obj\Debug\net7.0\git pr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timur\Desktop\git pr\obj\Debug\net7.0\git pr.AssemblyInfoInputs.cache
+C:\Users\Timur\Desktop\git pr\obj\Debug\net7.0\git pr.AssemblyInfo.cs
+C:\Users\Timur\Desktop\git pr\obj\Debug\net7.0\git pr.csproj.CoreCompileInputs.cache
+C:\Users\Timur\Desktop\git pr\obj\Debug\net7.0\git pr.dll
+C:\Users\Timur\Desktop\git pr\obj\Debug\net7.0\refint\git pr.dll
+C:\Users\Timur\Desktop\git pr\obj\Debug\net7.0\git pr.pdb
+C:\Users\Timur\Desktop\git pr\obj\Debug\net7.0\git pr.genruntimeconfig.cache
+C:\Users\Timur\Desktop\git pr\obj\Debug\net7.0\ref\git pr.dll
