@@ -1,8 +1,10 @@
 ﻿using System;
-namespace Main{
-    class Program{
-        static void Main(string[] args) {
-            Console.WriteLine("");
-        }
+using MileToKmConverter;
+public class Program
+{
+    public static void Main()
+    {
+        MileToKm ml = new MileToKm();
+        ml.show();
     }
 }

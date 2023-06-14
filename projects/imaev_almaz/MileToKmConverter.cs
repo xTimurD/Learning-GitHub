@@ -2,9 +2,9 @@ using System;
 
 namespace MileToKmConverter
 {
-    class Program
+    class MileToKm
     {
-        static double MileToKm(double distance, string mileType)
+        public double convert(double distance, string mileType)
         {
 
             double km = 0;
@@ -25,12 +25,12 @@ namespace MileToKmConverter
             return km;
         }
 
-        static void Main(string[] args)
+        public void show()
         {
             double distance = 10;
             string mileType = "сухопутная";
 
-            double km = MileToKm(distance, mileType);
+            double km = convert(distance, mileType);
 
             if (km > 0)
             {
