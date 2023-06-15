@@ -1,8 +1,9 @@
 ﻿using System;
 
-class Program4
+namespace bal {
+class Nastia
 {
-    static void Main(string[] args)
+    public static void solution()
     {
         double celsius; // градусы Цельсия
         double fahrenheit; // градусы Фаренгейта
@@ -17,4 +18,5 @@ class Program4
         Console.WriteLine("Температура в градусах Фаренгейта: " + fahrenheit);
         Console.WriteLine("Температура в Кельвинах: " + kelvin);
     }
+}
 }

@@ -4,7 +4,7 @@ namespace MileToKmConverter
 {
     class MileToKm
     {
-        public double convert(double distance, string mileType)
+        public static double solve(double distance, string mileType)
         {
 
             double km = 0;
@@ -25,19 +25,18 @@ namespace MileToKmConverter
             return km;
         }
 
-        public void show()
+        public static void show()
         {
             double distance = 10;
             string mileType = "сухопутная";
 
-            double km = convert(distance, mileType);
+            double km = solve(distance, mileType);
 
             if (km > 0)
             {
                 Console.WriteLine("{0} миль ({1}) = {2:F2} км", distance, mileType, km);
             }
 
-            Console.ReadKey();
         }
     }
 }

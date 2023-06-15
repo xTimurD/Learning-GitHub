@@ -1,5 +1,6 @@
 ﻿using System;
 
+namespace hafizov {
 class Program3
 {
     enum PaperSize // перечисление форматов бумаги
@@ -12,7 +13,7 @@ class Program3
         A0
     }
 
-    static void Main(string[] args)
+    public static void solution()
     {
         int copies; // количество копий
         PaperSize size; // формат бумаги
@@ -71,4 +72,5 @@ class Program3
 
         Console.WriteLine("Стоимость заказа составляет: " + total + " рублей.");
     }
+}
 }

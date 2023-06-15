@@ -1,8 +1,9 @@
 using System;
 
+namespace valiev {
 public class GlassCalculator
 {
-    public void SDs()
+    public static void SDs()
     {
        Console.Write("Введите ширину (мм): ");
         double width = double.Parse(Console.ReadLine());
@@ -54,4 +55,5 @@ public class GlassCalculator
         // Вывод результатов
         Console.WriteLine($"Стоимость стеклопакета: {price} руб.");
     }
+}
 }

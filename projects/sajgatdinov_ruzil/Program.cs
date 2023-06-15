@@ -1,8 +1,9 @@
 ﻿using System;
 
+namespace ruzil {
 class Program2
 {
-    static void Main(string[] args)
+    public static void solution()
     {
         int size; // размер фото: 1 - 9x12, 2 - 12x15, 3 - 18x24
         int quantity; // количество фото
@@ -40,4 +41,5 @@ class Program2
 
         Console.WriteLine("Стоимость заказа составляет: " + total + " рублей.");
     }
+}
 }
