@@ -1,0 +1,15 @@
+C:\Users\Timur\Desktop\git pr\projects\bal_anastasiya\bin\Debug\net7.0\bal_anastasiya.exe
+C:\Users\Timur\Desktop\git pr\projects\bal_anastasiya\bin\Debug\net7.0\bal_anastasiya.deps.json
+C:\Users\Timur\Desktop\git pr\projects\bal_anastasiya\bin\Debug\net7.0\bal_anastasiya.runtimeconfig.json
+C:\Users\Timur\Desktop\git pr\projects\bal_anastasiya\bin\Debug\net7.0\bal_anastasiya.dll
+C:\Users\Timur\Desktop\git pr\projects\bal_anastasiya\bin\Debug\net7.0\bal_anastasiya.pdb
+C:\Users\Timur\Desktop\git pr\projects\bal_anastasiya\obj\Debug\net7.0\bal_anastasiya.csproj.AssemblyReference.cache
+C:\Users\Timur\Desktop\git pr\projects\bal_anastasiya\obj\Debug\net7.0\bal_anastasiya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timur\Desktop\git pr\projects\bal_anastasiya\obj\Debug\net7.0\bal_anastasiya.AssemblyInfoInputs.cache
+C:\Users\Timur\Desktop\git pr\projects\bal_anastasiya\obj\Debug\net7.0\bal_anastasiya.AssemblyInfo.cs
+C:\Users\Timur\Desktop\git pr\projects\bal_anastasiya\obj\Debug\net7.0\bal_anastasiya.csproj.CoreCompileInputs.cache
+C:\Users\Timur\Desktop\git pr\projects\bal_anastasiya\obj\Debug\net7.0\bal_anastasiya.dll
+C:\Users\Timur\Desktop\git pr\projects\bal_anastasiya\obj\Debug\net7.0\refint\bal_anastasiya.dll
+C:\Users\Timur\Desktop\git pr\projects\bal_anastasiya\obj\Debug\net7.0\bal_anastasiya.pdb
+C:\Users\Timur\Desktop\git pr\projects\bal_anastasiya\obj\Debug\net7.0\bal_anastasiya.genruntimeconfig.cache
+C:\Users\Timur\Desktop\git pr\projects\bal_anastasiya\obj\Debug\net7.0\ref\bal_anastasiya.dll
